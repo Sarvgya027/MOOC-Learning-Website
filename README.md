@@ -1,7 +1,7 @@
 ## FreeEd 
 An educational website for students and programmers 😊😊😊  
 
-![](pcView.png)
+
 
 
 Our Educational Website would provide all the education related stuffs:  
